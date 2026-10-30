@@ -34,7 +34,7 @@ I’m an applied **AI / ML Engineer and Data Scientist** with a background in Ma
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,bash,numpy,pandas,scipy,scikitlearn,pytorch,tensorflow,streamlit,jupyter,docker,aws,postgresql,git,github,latex&theme=light&perline=9" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,scipy,scikitlearn,pytorch,tensorflow,streamlit,jupyter,docker,aws,git,github&theme=light&perline=9" />
   </a>
 </p>
 
