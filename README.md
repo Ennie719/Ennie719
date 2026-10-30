@@ -1,42 +1,54 @@
 # Ennie719
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Ennie!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Hello! I'm Enkhjin!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello!+I'm+Ennie!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Hello! I'm Ennie" />
 </div>
 
 ## About Me
 
-I’m an applied **AI / ML Engineer and Data Scientist** with a background in Mathematical Economics and complex systems, focused on building and evaluating **production-oriented machine learning and LLM-based systems**.
+I’m a passionate **Data Scientist and AI/ML Engineer** with a background in **Mathematical Economics** and complex systems. I enjoy turning data into actionable insights, building predictive models, and creating data-driven solutions that support real-world decision making.
+
+My work focuses on **statistical analysis, machine learning, data storytelling, and practical model development** for business and research use cases. I’m especially interested in solving problems where data, analytics, and machine learning can create measurable impact.
 
 - Languages: English, Mongolian
+- Open to: Data Scientist roles and analytics-focused ML opportunities
 
 ---
 
-## Focus Areas & Skills
+## Core Skills
 
-**Machine Learning & LLM Systems**
-- Classical ML and neural networks; Transformer-based models and large language models (LLMs)
-- Design of agentic and multi-step LLM workflows, tool-calling architectures, and MCP / FastMCP-based integrations
+**Data Science & Analytics**
+- Exploratory Data Analysis (EDA)
+- Data cleaning, feature engineering, and preprocessing
+- Statistical analysis and hypothesis testing
+- Regression, classification, clustering
+- Time series analysis and business insight generation
 
-**ML Engineering & Platforms**
-- End-to-end model training, evaluation, and inference pipelines
-- Experiment tracking (MLflow), containerized deployment (Docker)
-- API-based model serving (FastAPI, Flask)
-- Cloud platforms: AWS (EC2, S3) and Azure
-- Testing and observability for ML systems (Pytest, Unittest)
+**Programming**
+- Python, SQL
+- Pandas, NumPy, SciPy
+- Jupyter Notebook
 
-**Programming, Data & Analytics**
-- Python, SQL, JavaScript
-- Statistical analysis: hypothesis testing, regression, time series, and simulation methods
+**Machine Learning**
+- Scikit-learn
+- Supervised learning: regression and classification
+- Unsupervised learning: clustering
+- Model evaluation, validation, and performance metrics
+- NLP fundamentals using NLTK
 
-**Development & Workflow**
-- Git, Linux/Unix
-- Data visualization with Matplotlib, Seaborn, and Plotly
+**Data Visualization & BI**
+- Tableau, Power BI
+- Matplotlib, Seaborn, Plotly
+- Dashboarding and data communication for stakeholders
+
+**Tools & Workflow**
+- Git, GitHub
+- Docker
+- Experiment tracking and reproducible workflows
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,scipy,scikitlearn,pytorch,tensorflow,streamlit,jupyter,docker,aws,git,github&theme=light&perline=9" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,scipy,scikitlearn,tableau,powerbi,jupyter,docker,git,github&theme=light&perline=9" />
   </a>
 </p>
 
 ---
-
